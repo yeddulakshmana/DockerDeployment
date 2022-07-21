@@ -26,7 +26,7 @@ spec:
     spec:
       containers:
       - name: example-app
-        image: ly00530330/springbootdockerclass:v1
+        image: ly00530330/springbootdockerclass:v2
         imagePullPolicy: Always
         ports:
         - containerPort: 8080
