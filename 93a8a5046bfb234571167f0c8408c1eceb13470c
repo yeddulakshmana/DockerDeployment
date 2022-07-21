@@ -1,0 +1,1 @@
+{"jobID":"a3b322c0-d64d-93d2-6a0e-e410e9698c06","spec":{"type":"policy","cause":{"Message":"","User":"yeddulakshmana \u003c30742675+yeddulakshmana@users.noreply.github.com\u003e"},"spec":{"default:deployment/example-deploy":{"add":{"tag.example-app":"glob:v*"},"remove":{}}}},"result":null}
