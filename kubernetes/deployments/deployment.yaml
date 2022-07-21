@@ -29,7 +29,7 @@ spec:
         image: ly00530330/springbootdockerclass:v1
         imagePullPolicy: Always
         ports:
-        - containerPort: 5000
+        - containerPort: 8080
         # livenessProbe:
         #   httpGet:
         #     path: /status
